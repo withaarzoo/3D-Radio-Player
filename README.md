@@ -43,8 +43,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Note:** This project is for educational purposes and showcases interactive animations using HTML, CSS, and JavaScript. The audio source used in the demo is for demonstration purposes only and may be subject to copyright restrictions.
 
-```
 
-Replace "your-username" with your actual GitHub username in the clone URL.
-
-Please make sure to customize this README according to your specific project details and preferences.
