@@ -33,7 +33,7 @@ git clone https://github.com/Aarzoo75/3D-Radio-Player.git
 
 ## Credits
 
-- design by Aarzoo: [Twitter](https://twitter.com/Aarzoo75)
+- Design by Aarzoo: [Twitter](https://twitter.com/Aarzoo75)
 
 ## License
 
